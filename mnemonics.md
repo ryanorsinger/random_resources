@@ -1,0 +1,2 @@
+Recall that "recall" is all about real positives in the denominator. Recall = TP / (TP + FN)
+Precision is about positive predictions, so all positive predictions go in the denominator. Precision = TP / (TP + FP)
